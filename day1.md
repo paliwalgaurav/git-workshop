@@ -19,7 +19,7 @@ For all files : `git add .`
 Undo an add : `git reset <filename>`
 
 #### Committing your work
-Moving from staged are to commited area.
+Moving from staged area to commited area.
 
 Commitment is important :p
 
